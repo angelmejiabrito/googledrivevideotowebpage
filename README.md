@@ -2,12 +2,17 @@
 Embed video saved in google drive to web page
 
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>
 
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/1pJP2Q8_33nsMiYcRqRbroQJkBvNYq8O0/preview" width="420" height="345"></iframe>
+  
+  <iframe src="url video in google drive/preview" "></iframe>
+  
+  <!--aloow full screen add tag -->
+  
+<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
 
 </body>
 </html>
