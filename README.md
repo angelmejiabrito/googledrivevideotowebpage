@@ -4,7 +4,7 @@ How to embed videos from Google drive to webpage?
 
 
 
-![alt text](http://lightbox.tipsandtricks-hq.com/wp-content/uploads/2014/06/google-drive-preview-url.png)
+![alt text](http://lightbox.tipsandtricks-hq.com/wp-content/uploads/2014/06/google-drive-preview-url.png "Title")
 
 
 ```html
